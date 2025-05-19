@@ -4,6 +4,7 @@
 
 ## 👋 About Me
 Fueled by curiousity and love for tech, I'm diving into the world of cybersecurity and IT with excitement, learning through self-paced, globally recognised certification programs. My goal is to build a better understanding of foundation for networking, cloud computing, and security as I work on my self-guided preparation for a future degree in information security.
+This portfolio of mine would be actively being built as I progress through hands-on certification training. New projects would be constantly regulated to have a better insight on my learning journey.
 
 ---
 
@@ -89,6 +90,50 @@ Fueled by curiousity and love for tech, I'm diving into the world of cybersecuri
 -**AWS Free Tier:** Hands-on labs with EC2, S3, IAM, and biling dashboards
 
 ---
+
+###📝Goals
+
+- To attain all four key certifications by 2025 to improve and strengthen my technical fundamentals.
+- To build a hands-on Github portfolio showcasing practical labs I've tried, CTF writeups and security tools.
+- To develop a foundational and industry-relevant cybersecurity skills to prepare for future career opportunities and programmes in Informationa Security.
+
+---
+
+## 🗂️Projects
+- 💻 *[Coming Soon]* Hands-on labs and code snippets for cloud, networking, and security
+- 💼 *[Coming Soon]* Scripts and automation related to A+, CCNA, AWS, and Security+
+
+---
+
+##📜 Certifications
+- Enrolled in:
+	-Introduction to Cybersecurity (Cisco NetAcad, The Open University)
+	-AWS Cloud practitioner (AWS Skill Builder)
+	-CompTIA A+ (Professer Messer)
+	-CompTIA Security+ (Professer Messer)
+	-Cisco CCNA (Cisco NetAcad)
+
+---
+
+## 🎯 CTF writeups
+- 🔰 *Planned:* picoCTF beginner-level challenges with writeups and reflections
+- 🕵️‍♀️ *Planned:* CTFtime.org events and beginner CTF writeups
+- 🔎 *Planned:* OverTheWire (Bandit) and Hack The Box Starting Point challenge documentation
+
+---
+
+## 🗒️ Learning Journal
+- 🔏 *Foundations of Cybersecurity*: Core Principles, key terms and beginner-friendly concepts
+- ☁️ *Exploring the Cloud*: My takeaways and lessons from AWS Skill Builder
+- 📒 *Weekly Learnings & Tools*: Notes, resources and discoveries from my self-paced learning journey
+
+---
+
+## 🔗 Links
+- *[Coming Soon]*
+
+
+
 
 
       
