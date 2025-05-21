@@ -12,7 +12,7 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ### 1. 🔐 Introduction to Cybersecurity
 - **Platform:** Cisco Networking Academy, The Open University
-- **Skills Learned:**
+- **Foundational knowledge learned:**
   - Understanding of cybersecurity principles and terminology
   - Awareness for cybersecurity threats such as malware, phishing, social engineering
   - The basics of network security and firewalls
@@ -21,7 +21,7 @@ This portfolio of mine would be actively being built as I progress through hands
  
 ### ☁️ AWS Certified Cloud Practitioner
 - **Platform:** AWS skills builder
-- **Skills Gained:**
+- **Skills to understand:**
   - Understanding of cloud computing concepts and AWS global infrastructure
   - Basics of cloud architecture design principles
   - Gain understanding to the introduction of billing, pricing models, and the AWS Free Tier
@@ -31,7 +31,7 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ### 🛠️ CompTIA A+ (Core 1 & 2)
 - **Platform:** Professor Messer, CertMaster Learn
-- **Skills Learned:**
+- **Currently exploring:**
   - Core 1 (200-1101)
     - Introduction to computer hardwares and mobile devices
     - Installation and configuration of laptops, printers, and peripherals
@@ -52,7 +52,7 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ### 🌐 Cisco Certified Network Associate (CCNA)
 - **Platform:** Cisco NetAcad, FreeCodeCamp CCNA 8 hour video (Youtube), Jeremy's IT lab (Youtube)
-- **Skills learned:**
+- **Currently Exploring:**
   - **The fundamentals of Networking**
     - OSI and TCP/IP models
     - IPv4 and IPv6 addressing & subnetting
@@ -91,7 +91,7 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ---
 
-###📝Goals
+### 📝Goals
 
 - To attain all four key certifications by 2025 to improve and strengthen my technical fundamentals.
 - To build a hands-on Github portfolio showcasing practical labs I've tried, CTF writeups and security tools.
@@ -105,7 +105,7 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ---
 
-##📜 Certifications
+## 📜 Certifications
 - Enrolled in:
 	-Introduction to Cybersecurity (Cisco NetAcad, The Open University)
 	-AWS Cloud practitioner (AWS Skill Builder)
@@ -130,6 +130,7 @@ This portfolio of mine would be actively being built as I progress through hands
 ---
 
 ## 🔗 Links
+- [🧠 Study notes for AWS 'Cloud practitioner (Notion)](https://silken-lungfish-563.notion.site/Study-notes-for-AWS-Cloud-Practitioner-1f8071a0244580a18877cb7dcb5109d2?pvs=4)
 - *[Coming Soon]*
 
 
