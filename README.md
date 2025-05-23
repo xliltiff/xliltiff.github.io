@@ -131,6 +131,8 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ## 🔗 Links
 - [🧠 Study notes for AWS 'Cloud practitioner (Notion)](https://silken-lungfish-563.notion.site/Study-notes-for-AWS-Cloud-Practitioner-1f8071a0244580a18877cb7dcb5109d2?pvs=4)
+- [Notes for Cisco's Introduction for Cybersecurity (Notion)[https://silken-lungfish-563.notion.site/1ea071a02445800ead22fbb4c549a6bf?v=1ea071a0244581f99035000c56191bb1&pvs=4]
+- [My understandings on cybersecurity (Notion)[https://silken-lungfish-563.notion.site/A-dive-into-Digital-Authentication-1f5071a0244580638ca2e8672eaa4b6a?pvs=4]
 - *[Coming Soon]*
 
 
