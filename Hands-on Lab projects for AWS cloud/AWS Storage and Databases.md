@@ -20,4 +20,33 @@
  
   ---
 
+  ### ♦️ Review EBS volumes
+  1. Search and open **EC2** from the Console
+  2. In the sidebar, navigate the **Elastic Block Store > Volumes**
+  3. View the list of EBS volume
+  4. Optionally, click **Create Volume** to preview the setup
+
+  ---
+
+  ### ♦️ Explore Amazon RDS
+  1. Search and open **RDS** in the console
+  2. Click **Databases** to see if any are created
+  3. Click **Create database** and review engine options like MySQL, PostgreSQL, etc
+  4. Do not launch - just review configuration steps
   
+---
+
+## 🔎 Reflection questions
+
+> 💬 What is Amazon S3 used for?
+
+> 💬 How is EBS different from S3?
+
+> 💬 Why would you use Amazon RDS?
+
+---
+
+## ✅ Completion Checklist
+- [x] Created basic S3 bucket
+- [x] Reviewed EBS volume settings
+- [x] Explored RDS database creation flow
