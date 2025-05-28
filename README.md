@@ -100,7 +100,7 @@ This portfolio of mine would be actively being built as I progress through hands
 ---
 
 ## 🗂️Projects
-- 💻 *[Coming Soon]* Hands-on labs and code snippets for cloud, networking, and security
+- [💻 Hands-on labs and code snippets for cloud, networking, and security (AWS console)](https://github.com/xliltiff/xliltiff.github.io/tree/main/Hands-on%20Lab%20projects%20for%20AWS%20cloud)
 - 💼 *[Coming Soon]* Scripts and automation related to A+, CCNA, AWS, and Security+
 
 ---
