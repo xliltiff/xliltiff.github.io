@@ -85,9 +85,9 @@ This portfolio of mine would be actively being built as I progress through hands
 
 ## 🧪 Labs & Practice
 
--**TryHackMe Labs:** Working through Pre-Security & CompTIA Security+ rooms
--**Packet Tracer:** Practicing CCNA lab topologies and simulations
--**AWS Free Tier:** Hands-on labs with EC2, S3, IAM, and biling dashboards
+- **TryHackMe Labs:** Working through Pre-Security & CompTIA Security+ rooms
+- **Packet Tracer:** Practicing CCNA lab topologies and simulations
+- **AWS Free Tier:** Hands-on labs with EC2, S3, IAM, and biling dashboards
 
 ---
 
