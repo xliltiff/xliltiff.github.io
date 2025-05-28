@@ -52,7 +52,7 @@
 
 ## ✅ Completion checklist
 
--[x] Launched and stopped an EC2 instance
--[x] Created S3 bucket and uploaded file
--[x] Reviewed AWS billing
--[x] Navigated my way around AWS console webpage
+- [x] Launched and stopped an EC2 instance
+- [x] Created S3 bucket and uploaded file
+- [x] Reviewed AWS billing
+- [x] Navigated my way around AWS console webpage
