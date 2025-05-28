@@ -11,7 +11,7 @@
 
 ---
 
-## Instrution guide
+## Instruction guide
 
 ### ♦️Exploring Default VPC
 1.Search and open **VPC** in the console
