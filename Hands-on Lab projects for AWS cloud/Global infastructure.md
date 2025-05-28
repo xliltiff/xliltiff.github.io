@@ -38,12 +38,14 @@
 ## 🔎 Reflection Questions
 
 > 💬 What is an AWS Region?
+
 > 💬 Why are AZs considered to be important?
+
 > 💬 WHat are Edge Locations used for?
 
 ---
 
 ## ✅ Checklist summary
--[x] Able to identify default AWS regions via console
--[x] Viewed AZs informations in EC2 limits
--[x] Explored CloudFront distribution settings
+- [x] Able to identify default AWS regions via console
+- [x] Viewed AZs informations in EC2 limits
+- [x] Explored CloudFront distribution settings
