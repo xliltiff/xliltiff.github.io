@@ -65,12 +65,15 @@
 ## 🔎 Reflection
 
 > 💬 **What does 'on-demand' mean in AWS?**
+
 > Resources provided by AWS can be launched and used whenever you need them, billing will be charged per hour or second, depending on the service acquired
 
 > 💬 **How does S3 demonstrates scalability?**
+
 > Through the automation in handling virtually unlimited storage and access requests without requiring any manual intervention
 
 > 💬 **Why is AWS considered cost-effective?**
+
 > It aids individuals using it by reducing IT costs while offering a scalable, pay-as-you-go services avoiding the high expenses of traditional infastructure
 
 ---
